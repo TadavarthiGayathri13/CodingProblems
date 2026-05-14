@@ -23,4 +23,8 @@ Contains coding problems
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
