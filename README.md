@@ -33,4 +33,5 @@ Contains coding problems
 | [1527-patients-with-a-condition](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1527-patients-with-a-condition) |
 | [1757-recyclable-and-low-fat-products](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1873-calculate-special-bonus) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
