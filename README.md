@@ -27,6 +27,7 @@ Contains coding problems
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0584-find-customer-referee) |
