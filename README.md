@@ -32,6 +32,7 @@ Contains coding problems
 | [0184-department-highest-salary](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0626-exchange-seats) |
 | [1148-article-views-i](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1179-reformat-department-table) |
