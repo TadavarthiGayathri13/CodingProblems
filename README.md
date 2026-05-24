@@ -37,6 +37,7 @@ Contains coding problems
 | [0584-find-customer-referee](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0601-human-traffic-of-stadium) |
 | [0626-exchange-seats](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0626-exchange-seats) |
 | [1084-sales-analysis-iii](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1148-article-views-i) |
