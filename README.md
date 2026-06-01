@@ -7,6 +7,7 @@ Contains coding problems
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0073-set-matrix-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1791-richest-customer-wealth) |
@@ -17,6 +18,7 @@ Contains coding problems
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -48,4 +50,8 @@ Contains coding problems
 | [1873-calculate-special-bonus](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1978-employees-whose-manager-left-the-company) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
