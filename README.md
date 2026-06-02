@@ -13,6 +13,7 @@ Contains coding problems
 | [0073-set-matrix-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -66,6 +67,7 @@ Contains coding problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
