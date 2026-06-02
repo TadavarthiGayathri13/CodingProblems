@@ -10,6 +10,7 @@ Contains coding problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1791-richest-customer-wealth) |
@@ -26,6 +27,7 @@ Contains coding problems
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Database
 |  |
@@ -64,4 +66,5 @@ Contains coding problems
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
