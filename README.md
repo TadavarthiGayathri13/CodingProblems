@@ -6,6 +6,7 @@ Contains coding problems
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0073-set-matrix-zeroes) |
@@ -65,6 +66,11 @@ Contains coding problems
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
