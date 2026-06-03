@@ -6,6 +6,7 @@ Contains coding problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -72,6 +73,7 @@ Contains coding problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0075-sort-colors) |
@@ -86,4 +88,8 @@ Contains coding problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
