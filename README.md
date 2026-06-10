@@ -11,6 +11,7 @@ Contains coding problems
 | [0015-3sum](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0073-set-matrix-zeroes) |
@@ -73,6 +74,7 @@ Contains coding problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +85,7 @@ Contains coding problems
 | [0015-3sum](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0283-move-zeroes) |
@@ -103,4 +106,12 @@ Contains coding problems
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
