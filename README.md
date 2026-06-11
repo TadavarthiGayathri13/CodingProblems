@@ -89,6 +89,7 @@ Contains coding problems
 | [0075-sort-colors](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -114,4 +115,8 @@ Contains coding problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
