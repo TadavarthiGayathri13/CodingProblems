@@ -87,6 +87,7 @@ Contains coding problems
 | [0031-next-permutation](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0344-reverse-string) |
@@ -118,5 +119,6 @@ Contains coding problems
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
