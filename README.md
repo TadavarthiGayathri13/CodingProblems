@@ -24,6 +24,7 @@ Contains coding problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0977-squares-of-a-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1791-richest-customer-wealth) |
 ## Math
@@ -97,12 +98,14 @@ Contains coding problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
