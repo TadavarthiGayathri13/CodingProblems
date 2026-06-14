@@ -30,6 +30,7 @@ Contains coding problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0048-rotate-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Matrix
