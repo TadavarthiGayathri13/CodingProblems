@@ -27,6 +27,7 @@ Contains coding problems
 | [0977-squares-of-a-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1791-richest-customer-wealth) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Contains coding problems
 | ------- |
 | [0001-two-sum](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0073-set-matrix-zeroes) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,4 +134,8 @@ Contains coding problems
 | ------- |
 | [0125-valid-palindrome](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0344-reverse-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
