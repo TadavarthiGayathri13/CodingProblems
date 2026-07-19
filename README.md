@@ -24,6 +24,7 @@ Contains coding problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -46,6 +47,7 @@ Contains coding problems
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Database
 |  |
@@ -138,5 +140,10 @@ Contains coding problems
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0713-subarray-product-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/TadavarthiGayathri13/CodingProblems/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
